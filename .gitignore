@@ -1,0 +1,11 @@
+# Backend
+PurchaseOrder/**/bin/
+PurchaseOrder/**/obj/
+
+# Frontend
+purchase-order-ui/node_modules/
+purchase-order-ui/.angular/
+
+# OS files
+.DS_Store
+Thumbs.db
