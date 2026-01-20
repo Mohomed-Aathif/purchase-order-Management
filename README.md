@@ -54,6 +54,3 @@ The system allows procurement staff to manage Purchase Orders (POs) with full CR
 - No authentication required for this assessment.
 
 ---
-
-## Project Structure
-
